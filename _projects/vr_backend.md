@@ -1,5 +1,5 @@
 ---
-title: VR Backend
+title: Princess toes
 order: 1
 image: http://placehold.it/800x600/2ecc71/fff
 layout: project_details
