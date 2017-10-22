@@ -1,5 +1,5 @@
 ---
-title: Polygon Crawler
+title: Nite crawler
 order: 3
 image: http://placehold.it/800x600/e74c3c/fff
 layout: project_details
@@ -9,7 +9,7 @@ layout: project_details
 
 ## This is the actual content though.
 
-And a definition list as 
+And a definition list as
 
 defined
 : given a definition for
