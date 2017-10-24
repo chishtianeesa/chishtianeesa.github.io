@@ -1,6 +1,6 @@
 ---
-title: Cheese crackers
-order: 2
+title: Shortlist
+order: 5
 image: http://placehold.it/800x600/3498db/fff
 layout: project_details
 list-subtitle: Cisco, Aug 2013 to Dec 2014

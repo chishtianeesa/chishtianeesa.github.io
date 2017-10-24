@@ -1,6 +1,6 @@
 ---
-title: Pricing migration
-order: 4
+title: Product Pricing
+order: 1
 image: http://placehold.it/800x600/f1c40f/fff
 layout: project_details
 list-subtitle: Cisco, Aug 2013 to Dec 2014

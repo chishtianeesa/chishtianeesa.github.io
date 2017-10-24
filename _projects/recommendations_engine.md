@@ -1,6 +1,6 @@
 ---
-title: Recommendations & Personalisation
-order: 1
+title: Recommendations Engine
+order: 4
 image: http://placehold.it/800x600/2ecc71/fff
 layout: project_details
 list-subtitle: Housing.com, Oct 2015 to Sep 2017
