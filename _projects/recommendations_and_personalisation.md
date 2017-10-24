@@ -1,5 +1,5 @@
 ---
-title: Princess toes
+title: Recommendations & Personalisation
 order: 1
 image: http://placehold.it/800x600/2ecc71/fff
 layout: project_details
