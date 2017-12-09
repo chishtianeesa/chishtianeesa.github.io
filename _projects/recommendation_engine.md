@@ -1,7 +1,13 @@
 ---
+<<<<<<< HEAD:_projects/recommendations_engine.md
+title: Recommendations Engine
+order: 4
+image: http://placehold.it/800x600/2ecc71/fff
+=======
 title: VR + Backend
 order: 1
 image: /assets/images/gear_vr.jpg
+>>>>>>> 70cb82ca9bd7b9110a4d579de684978ddb8de3f2:_projects/vr_backend.md
 layout: project_details
 list-subtitle: Housing.com, Oct 2015 to Sep 2017
 list-summary: An architectural VR experience made from scratch. Supported by a web build system using Three.js.
