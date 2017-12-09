@@ -56,10 +56,12 @@
     font-weight: 400;
     letter-spacing: 2px;
     word-spacing: 2px;
+
     .page-link {
         color: black;
         text-transform: uppercase;
     }
+
     .project-link {
         color: #B5B3B3;
         text-transform: none;
@@ -69,6 +71,7 @@
         word-spacing: none;
         font-family: 'Roboto', sans-serif;
     }
+
     a.active, a.proj-active {
         color: #E67D3F;
     }
