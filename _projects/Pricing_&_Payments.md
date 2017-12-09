@@ -1,10 +1,10 @@
 ---
-title: Polygon Crawler
-order: 3
+title: Pricing & Payments  
+order: 2
 image: /assets/images/polygons.png
 layout: project_details
-list-subtitle: Housing, Dec 2014 to  Mar 2015
-list-summary:  A polygon/address crawler based on Google's Mapmaker Service
+list-subtitle: BrowserStack, Jun 2017 to Dec 2017
+list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
 ---
 
 # Polygon Crawler
