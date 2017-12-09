@@ -1,6 +1,6 @@
 ---
 title: Information Architecture
-order: 5
+order: 2
 image: /assets/images/20_min_isoline.png
 layout: project_details
 list-subtitle: Housing, Dec 2014 to Apr 2015

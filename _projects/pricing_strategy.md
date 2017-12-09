@@ -1,6 +1,6 @@
 ---
 title: Pricing Strategy
-order: 2
+order: 6
 image: /assets/images/lte_call_flow.jpg
 layout: project_details
 list-subtitle: Cisco, Aug 2013 to Dec 2014

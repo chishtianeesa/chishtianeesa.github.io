@@ -1,6 +1,6 @@
 ---
 title: Recommendation Engine
-order: 4
+order: 1
 image: /assets/images/gear_vr.jpg
 layout: project_details
 list-subtitle: Housing.com, Oct 2015 to Sep 2017
