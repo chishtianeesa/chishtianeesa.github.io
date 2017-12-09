@@ -1,5 +1,5 @@
 ---
-title: Enterprise for SaaS
+title: BrowserStack's Enterprise Edition
 order: 3
 image: http://placehold.it/800x600/3498db/fff
 layout: project_details
