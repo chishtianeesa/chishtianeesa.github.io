@@ -62,8 +62,9 @@
     }
     .project-link {
         color: #B5B3B3;
-        text-transform: none;
+        text-transform: uppercase;
         font-weight: 300;
+        font-size: 12px;
     }
     a.active, a.proj-active {
         color: #E67D3F;
