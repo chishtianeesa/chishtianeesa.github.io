@@ -65,8 +65,9 @@
         text-transform: none;
         font-weight: 300;
         font-size: 12px;
-        letter-spacing: 1px;
-        word-spacing: 1px;
+        letter-spacing: none;
+        word-spacing: none;
+        font-family: 'Roboto', sans-serif;
     }
     a.active, a.proj-active {
         color: #E67D3F;
