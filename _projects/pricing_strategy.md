@@ -1,23 +1,20 @@
 ---
-title: Pricing Strategy
-order: 6
-image: /assets/images/lte_call_flow.jpg
+title: Pricing Strategy  
+order: 3
+image: /assets/images/polygons.png
 layout: project_details
-list-subtitle: Cisco, Aug 2013 to Dec 2014
-list-summary:  Mapped inter-node communication through a network map using Cisco's monitor protocol.
-img-width: 81.1
+list-subtitle: BrowserStack, Jun 2017 to Dec 2017
+list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
 ---
 
-# Visual LTE Debugger
+# Polygon Crawler
 
-## LTE network debugging is hard
+## Gathered fids and polygon geo-data
 
-LTE consists of multiple internal network nodes, and they have significant network messages to perform internal tasks. Debugging all of these nodes together is very hard, and it often involves manually going through Cisco's monitor protocol logs, which are significant for complex operations. Parallel calls add to the complexity and create an environment where often bugs are hotfixed instead of fixing at the source, due to the root cause being unknown.
+Polygon data allows for efficient address-based representation of geographical data, e.g. apartments in a locality. Categorization of the polygons would be a major task, but the hierarchical address structure Google uses can be crawled using the fid data. This allows us to build a polygon tree for easy clustering and matching, e.g. nearby locality search
 
-*A sample LTE call flow*
+![nearby-locality-search](/assets/images/polygons.png)
 
-![lte-call-flow](/assets/images/lte_call_flow.jpg)
+## State-aware and distributed
 
-## Looking at message flow diagrams is easier
-
-The debugger parsed monpro logs and other node interfaces to draw a visual chart of the message flow. An interactive web page allows for detailed inspection of the messages being passed. Covering multiple protocols used for internal communication, and programmed in python, it was easily extensible to new protocols. Led to reduction of debugging times by 3x, and was instrumental in solving long-standing bugs.
+The crawler was state-aware, which allowed for resuming on faults, including arbitrary timeouts from Google servers. The independent query design of the system allowed for multiple instances to be run parallely without overlap. This increased throughput time directly by number of cores.
