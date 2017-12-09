@@ -1,5 +1,5 @@
 ---
-title: Routing System
+title: Information Architecture
 order: 5
 image: /assets/images/20_min_isoline.png
 layout: project_details

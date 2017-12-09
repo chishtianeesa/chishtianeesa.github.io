@@ -1,6 +1,6 @@
 ---
-title: Visual Debugger
-order: 4
+title: Pricing Strategy
+order: 2
 image: /assets/images/lte_call_flow.jpg
 layout: project_details
 list-subtitle: Cisco, Aug 2013 to Dec 2014
@@ -21,4 +21,3 @@ LTE consists of multiple internal network nodes, and they have significant netwo
 ## Looking at message flow diagrams is easier
 
 The debugger parsed monpro logs and other node interfaces to draw a visual chart of the message flow. An interactive web page allows for detailed inspection of the messages being passed. Covering multiple protocols used for internal communication, and programmed in python, it was easily extensible to new protocols. Led to reduction of debugging times by 3x, and was instrumental in solving long-standing bugs.
-

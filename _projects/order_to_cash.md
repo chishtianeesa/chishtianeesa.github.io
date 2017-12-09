@@ -1,5 +1,5 @@
 ---
-title: BrowserStack's Enterprise Edition
+title: Order to Cash
 order: 3
 image: http://placehold.it/800x600/3498db/fff
 layout: project_details
