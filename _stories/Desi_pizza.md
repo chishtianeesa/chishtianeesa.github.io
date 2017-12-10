@@ -1,12 +1,8 @@
 ---
 title: Desi Pizza
 order: 4
-image-url: http://thirteenfingersblog.com/wp-content/uploads/2016/08/blair-breitenstein.jpeg
-short-text: |
-    Housing
-    =======
+image-url: /assets/images/gear_vr.jpeg
 
-    was a short text once.
 ---
 
 # Housing made my life amaze-balls !!

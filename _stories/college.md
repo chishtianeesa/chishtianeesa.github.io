@@ -1,7 +1,7 @@
 ---
 title: College
 order: 3
-image-url: http://placehold.it/1200
+image-url: http://placehold.it/800
 ---
 
 # College was fun

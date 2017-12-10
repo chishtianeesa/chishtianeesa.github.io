@@ -38,6 +38,7 @@ The Unity build system was the monster supporting the entire build process. The 
 - Coverage
 - Frequency
 {: .negative-margin-top }
+![smiley](/assets/images/usage.png)
 
 ### Access Control
 The Unity build system was the monster supporting the entire build process. The system handled all the tasks of actually creating a 3D model according to specifications.

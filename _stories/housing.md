@@ -1,7 +1,7 @@
 ---
 title: Housing
 order: 1
-image-url: http://thirteenfingersblog.com/wp-content/uploads/2016/08/blair-breitenstein.jpeg
+image-url: /assets/images/gear_vr.jpg
 ---
 
 # I led the VR team at Housing
