@@ -11,11 +11,12 @@ list-summary: An architectural VR experience made from scratch. Supported by a w
 
 ## summary
 
-An architectural experience, the VR aimed for photorealism and interior space exploration as it’s primary offerings. These factors were empirically shown to be the most influential with buyers for shortlisting properties, and the experience was targeted as a precursor to actual site visits before purchases. To cover all
+BrowserStack is a cloud based website and mobile app testing product that started out with a self-service SaaS model. While this model gave BrowserStack massive organic growth, churn remained high because freelancers accounted for 85% of the customer base. BrowserStack now wants to expand within organisations to drive up retention and increase per account revenue. The goal is to make 80% of the revenue from 20% of the customer base. As part of this vision, my team built BrowserStack’s enterprise edition - BrowserStack for Enterprise.
 
 
+## What makes a good enterprise product?
 
-## Customer Research
+### Customer research
 
 Soon after completing the VR experience, we had issues where due to a small team size, it took us up to a month to complete a single VR build. We needed to productise this process and reduce the build time significantly. Identifying that most interior 3D models were made through a similar process, and that we could modularize the model creation, we created a build system operated through a web front end by an operator, who could design the house and send it for processing to Unity, which created and launched the experience as an app. The build time was cut down from multiple weeks to less than a day, allowing for much higher delivery potential and scalability. The following needs emerged:
 1. How can we optimize our testing on BrowserStack?
@@ -25,7 +26,7 @@ Soon after completing the VR experience, we had issues where due to a small team
 5. Professional services
 {: .negative-margin-top }
 
-## Core Features
+## Features identified
 
 ### Single Sign-on
 
