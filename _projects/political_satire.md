@@ -1,9 +1,9 @@
 ---
 title: Political Satire  
 order: 5
-image: /assets/images/polygons.png
+image: /assets/images/modi_project_cover.png
 layout: project_details
-list-subtitle: BrowserStack, Jun 2017 to Dec 2017
+list-subtitle: India Today, DNA, The daily outpour Jun 2017 to Dec 2017
 list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
 ---
 

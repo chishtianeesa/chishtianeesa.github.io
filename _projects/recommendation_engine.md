@@ -3,7 +3,7 @@ title: Recommendation Engine
 order: 4
 image: /assets/images/polygons.png
 layout: project_details
-list-subtitle: BrowserStack, Jun 2017 to Dec 2017
+list-subtitle: Housing.com, Jun 2017 to Dec 2017
 list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
 ---
 
