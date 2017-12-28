@@ -4,12 +4,11 @@ order: 1
 image-url: /assets/images/potrait.jpg
 ---
 
-# The puppet makers
+# Once upon a time
 
-I was born in Kashmir in the winter of 1987, to doctor parents who demonised sugar, fries and all things nice.
+I was born in the valley of Kashmir in the winter of 1987 to physician parents who demonised sugar, fries and all things nice.
 
-My elder sister and I were terribly curious kids. We would dig up mud from our front yard to build elaborate cities inhabited by wriggling worms and uprooted weeds. When we couldn’t grasp the concept of non-biodegradability, we buried a plastic box with paper dolls inside and agreed to dig it up 20 years later. Of course, the dolls had enough food, water and books for their time underground.
+My sister and I were curious and inventive, always up to something. We built elaborate cities from mud, complete with sewer systems and market squares. When we learnt about non-biodegradability, we decided to put it to the test. We buried paper dolls in  plastic box, meaning to dig it up in 20 years. The dolls, of course, had enough food, water and books for their time underground.
+We wrote scripts and made puppets out of garbage bags, badminton racquets and twigs. Our first play was about Bilkees, a young woman attempting to remedy her very, very itchy eyes with a carrot.
 
-Fascinated by theatre and puppetry, we wrote scripts and made our own puppets. Our very first play was about a young woman named Bilkees and her struggle to find a cure for her itchy eyes.
-
-My childhood was magical.
+We had a world of our own, inaccessible to those who did not know the secret language.

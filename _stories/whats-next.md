@@ -11,7 +11,7 @@ short-text: |
 
 # What lies ahead
 
-I would be happiest building inclusive products for people who still feel distant from the digital revolution. While it is wonderful that millions of Indians today can shop on Amazon or watch mindless funny videos on Youtube, I want people to be able to take advantage of the greater things that the digital revolution has to offer, such as the democratization of education.
+I want to build inclusive products, for people who still feel distant from the digital revolution. While it is wonderful that millions of Indians today can shop on Amazon or watch mindless funny videos on Youtube, I want people to be able to take advantage of the greater things that the digital revolution has to offer, such as the democratization of education.  
 
 What am I doing about it? Well - Lets just say I’m working on it :)
 
