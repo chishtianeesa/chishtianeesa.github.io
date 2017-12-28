@@ -29,11 +29,6 @@ list-summary:  Internal product that determines product pricing, packaging, paym
 
 ![Where do the homeless go](/assets/images/finding_namo.jpg)
 
-## The IDF showing Israel's real face in Nepal.
-
-Don't know what the Palestinians keep complaining about.
-
-![Where do the homeless go](/assets/images/nepal.jpg)
 
 ## Maybe it's Maybelline?
 
