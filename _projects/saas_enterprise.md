@@ -24,41 +24,8 @@ We ran extensive customers studies in the form of user interviews, surveys, and 
 
 ## Features identified
 
-1. Single sign-on
-2. Usage analytics
-3. Advanced user management
-4. IP whitelisting
-5. Advanced Local testing
-6. Data-center location
+![Single sign-on](/assets/images/features_grid_white.png)
 
-### Single Sign-on
-We built SSO integrations with enterprise-grade directory services like Google Apps, LDAP, SAML, Active Directory, and Azure. SSO enables large enterprises to offer a secure authentication experience to its employees, allowing them to log into BrowserStack (and other applicable systems) using a single username and password.
-
-![Single sign-on](/assets/images/saas_sso.png)
-
-### Usage Analytics
-An interactive analytics dashboard that allows customers to assess coverage, resource utilisation and testing frequency on BrowserStack. The challenge was to be transparent with customers without triggering cancellations and downgrades.
-
-![Usage analytics](/assets/images/usage.png)
-
-### Advanced User Management
-Advanced team management allows enterprises to organize their testing teams and allocate VMs. By creating sub-teams within their account, Enterprises can separate various teams in the organization by both access and parallel test allocation.
-Ability to create sub-teams and assign an Administrator to each.
-Resources (e.g. VMs for Automate) can be allocated between different teams.
-Each sub-team will have its own Automate dashboard-- eliminating noise from others.
-
-### Revocable API Keys
-BrowserStack offers a REST API to obtain new key credentials for automate and local testing. This enables organization to revoke access to compromised keys or recycle keys to prevent unauthorized access to testing resources on BrowserStack.
-API Keys allow a company to programmatically interact with BrowserStack which helps them automate functionality. This allows people to deeply integrate with BrowserStack and maintain/improve existing workflows.
-
-### IP Whitelisting
-In certain large companies, IT departments control access and mitigate risk by restricting access to internal networks. The most common of restriction is IP Address based, meaning that connections from an external resource must come from an expected IP range. BrowserStack IP Whitelisting enables these enterprises to have uninterrupted and seamless access to our testing resources across all products. Now, BrowserStack can offer a set of IP ranges that the customer can easily provide to their IT team for inclusion in the network security policies.
-This ensures that a company’s network security policy remains intact. It also helps companies control access which mitigates risk exposure.
-
-### Advanced Local Testing
-Enterprises need to funnel all traffic through their network to enforce internal monitoring, logging, and security policies. Advanced local testing allows our customers to resolve any URL on remote VMs via their network.
-BrowserStack Advanced Local Testing allows the entire account to funnel traffic through their network as opposed to doing it on an individual basis.
-It allows for account-wide enforcement rather than a user by user opt-in. It is a centralized flag that allows companies to control network traffic. It reduces risk by allowing admins to force all users to comply with network security protocols.
 
 
 ## Feature Validation

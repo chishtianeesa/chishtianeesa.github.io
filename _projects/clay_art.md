@@ -7,7 +7,7 @@ list-subtitle: Skittles Unibrow, Jun 2017 to Dec 2017
 list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
 ---
 
-# Polygon Crawler
+# Clay art
 
 ## Gathered fids and polygon geo-data
 

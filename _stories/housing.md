@@ -1,11 +1,15 @@
 ---
-title: Housing
+title: The puppet makers
 order: 1
-image-url: /assets/images/gear_vr.jpg
+image-url: /assets/images/potrait.jpg
 ---
 
-# I led the VR team at Housing
+# The Puppet Makers
 
-## We made the first scalable real estate VR product in India
+I was born in Kashmir in the winter of 1987, to doctor parents who demonised sugar, fries and all things nice.
 
-Led by some of the smartest people in the tech space, Housing fostered a culture of open thought, and encouraged new ideas, while serving a million users a month. A prototype VR app I made led the way to setting up a team to develop a product. With a rigorous process of researching and user testing every feature, we completed a VR experience in three months. It was a success. To optimize the build time, we set up an automated build process with a single point of intervention, bringing down creation times from a magnitude of weeks to hours. New ideas and the freedom to experiment reinforced that research is my calling.
+My elder sister and I were terribly curious kids. We would dig up mud from our front yard to build elaborate cities inhabited by wriggling worms and uprooted weeds. When we couldn’t grasp the concept of non-biodegradability, we buried a plastic box with paper dolls inside and agreed to dig it up 20 years later. Of course, the dolls had enough food, water and books for their time underground.
+
+Fascinated by theatre and puppetry, we wrote scripts and made our own puppets. Our very first play was about a young woman named Bilkees and her struggle to find a cure for her itchy eyes.
+
+My childhood was magical.

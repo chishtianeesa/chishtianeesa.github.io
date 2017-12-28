@@ -7,14 +7,43 @@ list-subtitle: India Today, DNA, The daily outpour Jun 2017 to Dec 2017
 list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
 ---
 
-# Polygon Crawler
+# Political Satire
 
-## Gathered fids and polygon geo-data
+## Where do the homeless go?
 
-Polygon data allows for efficient address-based representation of geographical data, e.g. apartments in a locality. Categorization of the polygons would be a major task, but the hierarchical address structure Google uses can be crawled using the fid data. This allows us to build a polygon tree for easy clustering and matching, e.g. nearby locality search
+![Where do the homeless go](/assets/images/homeless.jpg)
 
-![nearby-locality-search](/assets/images/polygons.png)
+## When women voice their opinions
 
-## State-aware and distributed
+![When women voice their opinions](/assets/images/women_opinions.jpg)
 
-The crawler was state-aware, which allowed for resuming on faults, including arbitrary timeouts from Google servers. The independent query design of the system allowed for multiple instances to be run parallely without overlap. This increased throughput time directly by number of cores.
+## Revenge of the Gods
+
+![Where do the homeless go](/assets/images/kashmir_drowns.jpg)
+
+## India's Mount Rushmore
+
+![Where do the homeless go](/assets/images/mount_modi.jpg)
+
+## Finding namo
+
+![Where do the homeless go](/assets/images/finding_namo.jpg)
+
+## The IDF showing Israel's real face in Nepal.
+
+Don't know what the Palestinians keep complaining about.
+
+![Where do the homeless go](/assets/images/nepal.jpg)
+
+## Maybe it's Maybelline?
+
+From Greek mythology, we know how this story could end. *plop*.
+
+![Where do the homeless go](/assets/images/modi_nar.jpg)
+
+## Godwin's Law
+
+An innocent status (about an incredibly delicious apple) triggers an apple Vs. android war that quickly escalates into an epic Facebook shitstorm.
+All characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental
+
+![Where do the homeless go](/assets/images/godwins_law.jpg)
