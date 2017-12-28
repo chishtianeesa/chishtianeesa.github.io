@@ -4,7 +4,7 @@ order: 1
 image-url: /assets/images/potrait.jpg
 ---
 
-# The Puppet Makers
+# The puppet makers
 
 I was born in Kashmir in the winter of 1987, to doctor parents who demonised sugar, fries and all things nice.
 
