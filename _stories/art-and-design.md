@@ -1,9 +1,13 @@
 ---
 title: Design School
 order: 2
-image-url: http://placehold.it/1200
+image-url: /assets/images/loom.jpg
 ---
 
-# Art and Design
+# Lessons from the loom
 
-As the years, cities and people went by I remained quiet and reflective. Art became my medium of choice: paper never talked to fast, or too loud. At NIFT, where I studied, the curriculum focused on the origin of products, and the skills that bring them to life. Before designing a pattern for a weave, I had to make my own loom. While I enjoyed experimenting with methods, materials and scale, I found myself inclined towards what I now know as UX design.
+As the years, cities and people went by I remained quiet and reflective. Art became my medium of choice: paper never talked to fast, or too loud.
+
+At NIFT, where I studied design, the curriculum focused on the origin of products, and the skills that bring them to life. Before designing a pattern for a weave, I had to make my own loom!
+
+These experiences made me curious about the people, skills and processes that touched every product I used.  

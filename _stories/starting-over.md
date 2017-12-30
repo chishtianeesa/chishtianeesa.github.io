@@ -1,10 +1,10 @@
 ---
 title: Starting over
 order: 3
-image-url: http://placehold.it/800
+image-url: /assets/images/polar-bear.jpg
 ---
 
-# Starting over
+# Changing course
 
 I began my career as a product designer, at India’s largest apparel manufacturer where an incident on the shopfloor inspired me to explore interface design. As I read more, I learned that good design can’t be idiosyncratic, it must have mass appeal and intelligibility. I finally had a name for the ideas I kept turning over in my head: HCI!
 
