@@ -1,7 +1,7 @@
 ---
-title: The puppet makers
+title: Once upon a time
 order: 1
-image-url: /assets/images/potrait.jpg
+image-url: /assets/images/mud_cities.jpg
 ---
 
 # Once upon a time
