@@ -9,10 +9,10 @@ short-text: |
     was a short text once.
 ---
 
-# What lies ahead
+# The road ahead
 
-I want to build inclusive products, for people who still feel distant from the digital revolution. While it is wonderful that millions of Indians today can shop on Amazon or watch mindless funny videos on Youtube, I want people to be able to take advantage of the greater things that the digital revolution has to offer, such as the democratization of education.  
+I deeply care about inclusive design. It is wonderful when I find technology that is truly inclusive. Our biases determine whether we care enough to recognise some problems as meaningful problems that must be addressed. Up until recently, Siri didn’t even recognise “rape” as a problem. I took an evaluation as part of *Project inclusive* which helped me uncover my own biases - some very shocking ones!
 
-What am I doing about it? Well - Lets just say I’m working on it :)
+I am constantly trying to overcome my biases and think outside my own frame of reference while building products.
 
-And someday, when I have a story to tell, I would also love to work on a graphic novel.
+Someday, when I have a story to tell, I would also love to work on a graphic novel.
