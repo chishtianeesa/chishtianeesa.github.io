@@ -1,6 +1,6 @@
 ---
 title: Pricing Strategy  
-order: 3
+order: 4
 image: /assets/images/polygons.png
 layout: project_details
 list-subtitle: BrowserStack, Jun 2017 to Dec 2017

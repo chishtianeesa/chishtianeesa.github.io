@@ -13,4 +13,4 @@ list-summary:  A realtime horizontally scalable isoline routing engine based on 
 blah bla
 
 
-![nearby-locality-search](/assets/images/polygons.png)
+![nearby-locality-search](/assets/images/IA-labels.png)

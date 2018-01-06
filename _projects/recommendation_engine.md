@@ -1,6 +1,6 @@
 ---
-title: Recommendation Engine  
-order: 4
+title: Recommendations  
+order: 3
 image: /assets/images/polygons.png
 layout: project_details
 list-subtitle: Housing.com, Jun 2017 to Dec 2017
