@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: resume
 title: Resume
-order: 2
+order: 3
 permalink: /resume/
+resume_pdf_address: /assets/KhushmanResume.pdf
 ---
-
-<object data="/assets/..." type="application/pdf" width="100%" height="100%"></object>
