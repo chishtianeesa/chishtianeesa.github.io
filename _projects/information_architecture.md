@@ -1,5 +1,5 @@
 ---
-title: Information Arch.
+title: Information Architecture
 order: 2
 image: /assets/images/20_min_isoline.png
 layout: project_details

@@ -1,5 +1,5 @@
 ---
-title: Recommendations  
+title: Recommendation Engine  
 order: 3
 image: /assets/images/polygons.png
 layout: project_details
