@@ -1,10 +1,10 @@
 ---
 title: Pricing Strategy  
 order: 4
-image: /assets/images/polygons.png
+image: /assets/images/pshand.png
 layout: project_details
-list-subtitle: BrowserStack, Jun 2017 to Dec 2017
-list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
+list-subtitle: BrowserStack
+list-summary:  Product pricing, packaging, payment rules, subscription management and reporting.
 ---
 
 # Heading 1

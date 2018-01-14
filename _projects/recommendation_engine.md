@@ -1,10 +1,10 @@
 ---
-title: Recommendation Engine  
+title: Recommendation <br> Engine  
 order: 3
-image: /assets/images/polygons.png
+image: /assets/images/reccohand.png
 layout: project_details
-list-subtitle: Housing.com, Jun 2017 to Dec 2017
-list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
+list-subtitle: Housing.com
+list-summary:  Discovery product powered by suggestion algorithms to maximize successful searches.
 ---
 
 # Heading 1

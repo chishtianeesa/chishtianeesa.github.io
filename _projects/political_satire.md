@@ -1,10 +1,10 @@
 ---
 title: Political Satire  
 order: 5
-image: /assets/images/modi_project_cover.png
+image: /assets/images/satirehand.png
 layout: project_details
-list-subtitle: India Today, DNA, The daily outpour Jun 2017 to Dec 2017
-list-summary:  Internal product that determines product pricing, packaging, payment rules, post transaction scenarios such as refunds, and revenue recognition.
+list-subtitle: India Today, DNA, Times of India, The Daily Outpour
+list-summary:  Comic art on topics ranging from sexism and religious extremism to ecological disaster.
 ---
 
 # Political Satire

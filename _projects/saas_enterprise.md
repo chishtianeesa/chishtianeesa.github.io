@@ -1,10 +1,10 @@
 ---
-title: SaaS Enterprise
+title: Enterprise SaaS
 order: 1
-image: /assets/images/gear_vr.jpg
+image: /assets/images/enterprisehand.png
 layout: project_details
-list-subtitle: BrowserStack, Oct 2016 to Apr 2017
-list-summary: Led an engineering team of 5 to build BrowserStack's enterprise edition.
+list-subtitle: BrowserStack
+list-summary: BrowserStack's enterprise edition for teams testing at scale.
 ---
 
 # BrowserStack for Enterprise
