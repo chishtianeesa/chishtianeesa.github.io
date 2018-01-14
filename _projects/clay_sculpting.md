@@ -1,5 +1,5 @@
 ---
-title: Clay Sculpting  
+title: Mixed media  
 order: 6
 image: /assets/images/mixedmedia.png
 layout: project_details
