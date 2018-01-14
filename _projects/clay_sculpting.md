@@ -9,8 +9,6 @@ list-summary:  Media explorations over the years.
 
 # Character Design
 
-Skittles unibrow who she is, what she does. Loosely autobiographical.
-
 
 ## Tea Gardens and Muddy boots
 ![skittles in munnar, kerala](/assets/images/skittles-munnar.png)
