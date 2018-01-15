@@ -1,7 +1,7 @@
 ---
-title: Clay Sculpting  
+title: Character Design  
 order: 6
-image: /assets/images/mixedmedia.png
+image: /assets/images/claygrey.png
 layout: project_details
 list-subtitle: Clay, Fibre, Paper
 list-summary:  Media explorations over the years.
