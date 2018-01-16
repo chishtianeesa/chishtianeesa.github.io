@@ -3,8 +3,8 @@ title: Character Design
 order: 6
 image: /assets/images/mixedmedia.png
 layout: project_details
-list-subtitle: Clay, Fibre, Paper
-list-summary:  Media explorations over the years.
+list-subtitle: Skittles Unibrow
+list-summary:  Loosely autobiographical little person in clay.
 ---
 
 # Character Design

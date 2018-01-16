@@ -1,5 +1,5 @@
 ---
-title: Pricing Strategy  
+title: Pricing & Billing
 order: 4
 image: /assets/images/pshand.png
 layout: project_details
