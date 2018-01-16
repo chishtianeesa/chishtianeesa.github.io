@@ -10,7 +10,7 @@ list-summary:  Architecture overhaul to accommodate future growth, while balanci
 # Information Architecture
 
 ## Problem
-BrowserStack was originally designed for one product, Live, a manual cross-browser testing product. As BrowserStack grew, it added multiple products but the architecture could not support these while keeping the navigation intact. Multiple adhoc additions made the navigation complex and unweildy. We reached a point where there were multiple problems that impacted new product visibility. Live remained the homepage despite 4 other product additions, even in mobile app testing. This also created a positioning problem where users associated browserstack with only cross-browser testing.
+Originally designed for one product, BrowserStack's website could not scale with rapid product growth. Multiple adhoc additions made the navigation complex, because of which users could not find contextual information in their evaluation/use of the products.
 
 ## Solution
 
@@ -18,21 +18,8 @@ BrowserStack was originally designed for one product, Live, a manual cross-brows
 src="https://www.youtube.com/embed/aFt0T90YuH8?vq=hd720&rel=0&autoplay=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-
-
 ## Process
 
-### What was the problem?
-
-1. Users could not find contextual pages in their evaluation/use of the products
-- An analysis of 435 queries (Oct - Nov) revealed 43 requested assistance in finding the right product. 
-- On an average (Sept - Nov) ~29% of support queries are product questions (eg queuing, device coverage, capability configuration etc)
-2. The architecture did not support multiple products
- - Visibility was heavily skewed towards Live (the first product launched!)
- - No real estate to surface product specific resources
- - Enterprise hidden under more 
-
-## Solution
 
 ### Solution Guidelines
 - Scalability
