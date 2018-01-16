@@ -11,7 +11,7 @@ list-summary: BrowserStack's enterprise edition for teams testing at scale.
 
 ## Context
 
-BrowserStack is a cloud based website and mobile app testing product. It started out with a predominantly self-service SaaS model which led to exponential organic growth, particularly among freelance developers. The product also gained popularity among enterprises, but missing features and services prevented adoption at scale. To address this problem, and thus increase retention and revenue per account, my team built BrowserStack’s enterprise edition - _BrowserStack for Enterprise._ In the 7 months since launch -xx-xx- this product as increased the Monthly Recurring Revenue by 7%.
+BrowserStack is a cloud based website and mobile app testing product. It started out with a predominantly self-service SaaS model which led to exponential organic growth, particularly among freelance developers. The product also gained popularity among enterprises, but missing features and services prevented adoption at scale. To address this problem, and thus increase retention and revenue per account, my team built BrowserStack’s enterprise edition - _BrowserStack for Enterprise._
 
 
 ## Customer Research

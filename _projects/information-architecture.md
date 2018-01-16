@@ -9,14 +9,18 @@ list-summary:  Architecture overhaul to accommodate future growth, while balanci
 
 # Information Architecture
 
-## Context
+## Problem
 BrowserStack was originally designed for one product, Live, a manual cross-browser testing product. As BrowserStack grew, it added multiple products but the architecture could not support these while keeping the navigation intact. Multiple adhoc additions made the navigation complex and unweildy. We reached a point where there were multiple problems that impacted new product visibility. Live remained the homepage despite 4 other product additions, even in mobile app testing. This also created a positioning problem where users associated browserstack with only cross-browser testing.
 
-![Bstack Flashback](/assets/images/bs flashback.png)
+## Solution
 
-![current state](/assets/images/current state 01.png)
+<iframe width="854" height="480"
+src="https://www.youtube.com/embed/aFt0T90YuH8?vq=hd720&rel=0&autoplay=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Brief
+
+
+
+## Process
 
 ### What was the problem?
 
@@ -27,15 +31,6 @@ BrowserStack was originally designed for one product, Live, a manual cross-brows
  - Visibility was heavily skewed towards Live (the first product launched!)
  - No real estate to surface product specific resources
  - Enterprise hidden under more 
-
-Current state:
-
-![current state](/assets/images/current state.png)
-
-![current state](/assets/images/current state 2.png)
-
-![current state](/assets/images/current state 3.png)
-
 
 ## Solution
 
@@ -84,11 +79,3 @@ Current state:
 ![Product Dropdown](/assets/images/10-Logged in first time product toggle.jpg)
 
 ![Product Dropdown](/assets/images/11-Logged in app live dashboard.jpg)
-
-
-
-
-## Final Solution Walk through
-
-<iframe width="854" height="480"
-src="https://www.youtube.com/embed/aFt0T90YuH8?vq=hd720&rel=0&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
