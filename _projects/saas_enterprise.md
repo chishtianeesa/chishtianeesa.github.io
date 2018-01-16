@@ -1,7 +1,7 @@
 ---
 title: Enterprise SaaS
 order: 1
-image: /assets/images/enterprise.png
+image: /assets/images/enterprisehand.png
 layout: project_details
 list-subtitle: BrowserStack
 list-summary: BrowserStack's enterprise edition for teams testing at scale.

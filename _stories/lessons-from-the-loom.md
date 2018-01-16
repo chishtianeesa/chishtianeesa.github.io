@@ -1,5 +1,5 @@
 ---
-title: Design School
+title: Lessons from the loom
 order: 2
 image-url: /assets/images/loom.jpg
 ---

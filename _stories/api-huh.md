@@ -7,8 +7,8 @@ image-url: /assets/images/uphill.jpg
 
 # API? huh?
 
-After business school I joined the product team at Housing.com. I was the only non-tech Product Manager. On my first day, I stared blankly at the mention of “Google Maps API”.
+At business school, I benefited immensely from a combination of academic and experiential learning, and came to understand the numerous intersections between the business and tech worlds. After graduating, I joined the product team at Housing.com. I was the only non-tech Product Manager. On my first day, I stared blankly at the mention of “Google Maps API”.
 
-I spent weekends taking online courses on programming, databases, analytics and information architecture. Music was replaced with audiobooks and podcasts. I read as much as I could.
+I dedicated every waking moment to catching up.
 
-In just 4 months, I was leading a team of 8 engineers and designers to work on a recommendation engine to address Housing’s disproportionately high percentage of dead-end searches.
+Four months in, I was leading a team of six engineers and designers to work on a recommendation engine, to maximize successful searches on Housing.com.
