@@ -7,10 +7,18 @@ list-subtitle: BrowserStack
 list-summary:  Product pricing, packaging, payment rules, subscription management and reporting.
 ---
 
-# Heading 1
+# Pricing and Billing
 
-## Heading 2
-blah bla
+## Product overview
+BrowserStack's business can be split into online vs sales-driven (or inside Sales)
 
 
-![nearby-locality-search](/assets/images/polygons.png)
+![pricing-billing-overview](/assets/images/billing-overview.png)
+
+![pricing-billing-overview-2](/assets/images/billing-overview-2.png)
+
+## Problems
+
+![pricing-billing-problems](/assets/images/pricing-billing-problems.png)
+
+## Problem #1    :   The Big Pricing Migration

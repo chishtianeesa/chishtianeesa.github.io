@@ -10,7 +10,7 @@ list-summary:  Architecture overhaul to accommodate future growth, while balanci
 # Information Architecture
 
 ## Problem
-Originally designed for one product, BrowserStack's website could not scale with rapid product growth. Multiple adhoc additions made the navigation complex, because of which users could not find contextual information in their evaluation/use of the products.
+Originally designed for one product, BrowserStack's website could not scale with rapid product growth. Multiple adhoc additions made the navigation complex. Users could not find contextual information in their evaluation/use of the products, and there was no scope left for further product additions.
 
 ## Solution
 
