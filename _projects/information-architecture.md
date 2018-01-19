@@ -13,10 +13,11 @@ list-summary:  Architecture overhaul to accommodate future growth, while balanci
 
 ![sitemap on whiteboard](/assets/images/ia2.png)
 
-## Solution
+## Final Solution
 
 <iframe width="854" height="480"
 src="https://www.youtube.com/embed/aFt0T90YuH8?vq=hd720&rel=0&autoplay=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 ## Process
@@ -37,6 +38,8 @@ src="https://www.youtube.com/embed/aFt0T90YuH8?vq=hd720&rel=0&autoplay=0" frameb
 ![nearby-locality-search](/assets/images/secondary nav 2.png)
 ![nearby-locality-search](/assets/images/product dasboard.png)
 
-
 ### Wireframing
+
+![Homepage](/assets/images/ia3.png)
+
 ![Homepage](/assets/images/1-Global.jpg)
