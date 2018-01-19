@@ -7,11 +7,11 @@ list-subtitle: BrowserStack
 list-summary:  Product pricing, packaging, payment rules, subscription management and reporting.
 ---
 
-# Pricing and Billing
+# Pricing and Billing systems
 
-## Product overview
-BrowserStack's business can be split into online vs sales-driven (or inside Sales)
+## Project #1    :   Revising the homegrown billing system
 
+BrowserStack's business can be split into online vs sales-driven (or inside Sales). I split the whole system into seven main components, and mapped ideal features to each component:  
 
 ![pricing-billing-overview](/assets/images/billing-overview.png)
 
@@ -21,7 +21,7 @@ BrowserStack's business can be split into online vs sales-driven (or inside Sale
 
 ![pricing-billing-problems](/assets/images/pricing-billing-problems.png)
 
-## Problem #1    :   The Big Pricing Migration
+## Project #2    :   The Big Pricing Migration
 
 ### What was the problem?
 We were maintaining three pricing versions to support 22,000 legacy customers. As we experimented with pricing, and launched plans and products, maintenance got increasingly difficult, feature releases slowed down, and new product adoption suffered because new products/plans were visible only to customers on the latest pricing version - so, legacy customers missed out!
@@ -82,14 +82,42 @@ Three previous plans case
 ![three-previous-plan-modal](/assets/images/three previous plan.jpg)
 
 
-## Problem #2    :   Single subscription, to Multiple subscriptions
+## Project #3    :   Single subscription, to Multiple subscriptions
 
 - Pricing page and checkout experience
 - Backend changes
 - Salesforce changes
 
+ Why V1 to combined?
 
-## Problem #3    :   Automate Mobile Plans and Pricing
+- Multiple product confusion
+- Low revenue per customer
+- Fewer licenses per customer
+
+Why V2 to V3?
+
+Overall increase in revenue due to increase in revenue of ML : Increased ASP for ML plans with more or less same # of deals sold
 
 
-## Problem #4    :   Billing Systems 2.0
+## Project #4    :   Automate Mobile Plans and Pricing
+
+Introduce browser automate on real mobile devices
+
+Scope:
+
+Real mobile in Browser Automate is a feature within an existing product (browser testing).
+
+
+Target:
+
+Real mobile in Automate was decided to be a new premium plan.
+It will not only serve more advanced and picky users, but also define the "north star" - a plan or a feature-set that everyone should look up to and desire to have.
+
+
+Key changes:
+
+We are creating a new plan:  Real Mobile in Browser Automate Mobile (real mobile devices in browser automate testing)
+We are dropping Automate plan.
+
+-evaluation matrix-
+Even though we see option 3 as more attractive naming version, it would  cause potentially high risk of mis-communication issues with existing clients. For example, existing Automate Pro clients would start seeing themselves as Automate account holders and not Pro anymore (even though it's just the naming). The decision is clarified in the main problem solving table (above).
