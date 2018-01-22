@@ -20,10 +20,24 @@ src="https://www.youtube.com/embed/aFt0T90YuH8?vq=hd720&rel=0&autoplay=0" frameb
 
 
 
+
+
 ## Process
 
 ### Key Decisions
 
+![decisions](/assets/images/ia_decisions.png)
+
+![decisions](/assets/images/ia_ideal.png)
+
+### Page Categorisation
+
+![sitemap on whiteboard](/assets/images/ia_pages.png)
+
+### Labels and Rules of inclusion
+
+![nearby-locality-search](/assets/images/secondary nav 2.png)
+![nearby-locality-search](/assets/images/product dasboard.png)
 
 ### Whiteboarding
 
@@ -31,15 +45,7 @@ src="https://www.youtube.com/embed/aFt0T90YuH8?vq=hd720&rel=0&autoplay=0" frameb
 
 ![sitemap on whiteboard](/assets/images/IAwhiteboarding2.jpg)
 
-### Page categorisation
-
-### Clustering and Labelling rules
-
-![nearby-locality-search](/assets/images/secondary nav 2.png)
-![nearby-locality-search](/assets/images/product dasboard.png)
 
 ### Wireframing
 
-![Homepage](/assets/images/ia3.png)
-
-![Homepage](/assets/images/1-Global.jpg)
+![wireframes](/assets/images/ia_wireframes.png)
