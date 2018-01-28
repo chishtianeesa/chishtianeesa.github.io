@@ -43,16 +43,12 @@ Keep the user in the search journey, identify non-negotiables and help navigate 
 
 ### Card families
 1. Narrow search
-- Single filter
-Relax filter (Which filter is restricting search?)
-Remove filter (which soft filter is making the search narrow?)
-- Multi filter
-Relax filter
-Remove filter (which soft filter is making the search narrow?)
-Single locality
-change polygon
-- Multi locality
-change polygon
+- Relax filter(s) (Which filter is restricting search?)
+- Remove filter(s) (which soft filter is making the search narrow?)
+- Change polygon
+
+![Robin](/assets/images/recco-1.png)
+
 2. Broad search
 Single filter
 Add filter
@@ -60,6 +56,7 @@ Single locality
 change polygon
 Multi locality
 change polygon
+
 3. Statics cards
 Set Alerts
 Flatmates
@@ -69,3 +66,6 @@ See Agents
 ### Filters
 
 Average filter usage in a 7 day period:
+
+
+## Retrospective
