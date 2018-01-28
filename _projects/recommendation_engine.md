@@ -22,6 +22,9 @@ My team managed Housing.com's discovery experience, and more! Here's a visual su
 ## Problem
 35% of the searches for rental properties run on Housing were dead-end searches.
 
+## Hypothesis
+Guiding users through the search/discovery process with contextual recommendations would reduce dead-end/broad searches and improve conversion over time.
+
 ## Approach
 We split searches into narrow, normal and broad searches to further understand behaviour for each search type.
 
@@ -31,9 +34,6 @@ We split searches into narrow, normal and broad searches to further understand b
 
 3. Broad searches (>100 listings): Users applied no filters or ran city wide searches or supply was too high, thus fetching an overwhelming flood of listings which resulted in poor conversion and users abandoning the search altogether.
 
-
-## Hypothesis
-Guiding users through the search/discovery process with contextual recommendations would reduce dead-end/broad searches and improve conversion over time.
 
 ## Solution
 Keep the user in the search journey, identify non-negotiables and help navigate through those.
