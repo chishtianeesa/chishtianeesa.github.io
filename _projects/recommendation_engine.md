@@ -1,5 +1,5 @@
 ---
-title: Recommendation <br> Engine  
+title: Recommendation Engine  
 order: 3
 image: /assets/images/reccohand.png
 layout: project_details
@@ -9,13 +9,13 @@ list-summary:  Discovery product powered by suggestion algorithms to maximize su
 
 # Recommendation Engine
 
-## Context : What my team did at Housing.com
-A little bit about solutions at housing. and what it did.
-
-![Personas and Problems](/assets/images/housing.png)
-
 ## Summary
 In the period of May 2015 to July 2015, 40% of the searches for rental properties run on Housing were dead-end searches. Further, only 12% of first time users attempted another search after getting 0 results in the first attempt. To improve the home-finding experience for users, my team introduced Robin - a recommendations engine built using Python - that prodded users to tweak their search and maximize relevant results. If there was a home on Housing for you, we wanted to make sure you found it. These recommendations took the form of cards, interspersed with search listings. We also built an internal tool to help product managers deploy cards without engineering effort. Over a period of 3 months - we saw dead-end searches drop by 22%. This was of course, the combined result of more supply and Robin. We isolated data from areas where supply had not significantly increased and still saw a 17% drop in dead-end searches.
+
+## Context
+My team managed Housing.com's discovery experience, and more! Here's a visual summary:
+
+![Context](/assets/images/housing.png)
 
 ## Approach
 We split searches into narrow, normal and broad searches to further understand behaviour for each search type.
