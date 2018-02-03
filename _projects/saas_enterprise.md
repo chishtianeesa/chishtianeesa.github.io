@@ -14,6 +14,10 @@ list-summary: BrowserStack's enterprise edition for teams testing at scale.
 BrowserStack is a cloud based website and mobile app testing product. It started out with a predominantly self-service SaaS model which led to exponential organic growth, particularly among freelance developers. The product also gained popularity among enterprises, but missing features and services prevented adoption at scale. To address this problem, and thus increase retention and revenue per account, my team built BrowserStack’s enterprise edition - _BrowserStack for Enterprise._
 
 
+![Enterprise hero](/assets/images/enterprisehero.png)
+
+
+
 ## Customer Research
 
 We ran extensive customers studies in the form of user interviews, surveys, and experiments on customers across software & technology, finance, retail, education, government and more. 30 companies including Twitter, Geico, BBC, Xerox and Tableau participated in the research. The following problems emerged:
@@ -24,31 +28,41 @@ We ran extensive customers studies in the form of user interviews, surveys, and 
 
 ## Features identified
 
-![Single sign-on](/assets/images/features_grid_white.png)
+![Features identified](/assets/images/enterprisefeatures.png)
 
 
+## Usage Analytics
 
-## Feature Validation
-
-Before investing majorly in building these features, I split each into a mini experiment to gauge demand and better understand risks. Explained below are these experiments:
-
-### Usage analytics experiment
-Before investing a sophisticated dashboard we ran two experiments to:
+Before investing in a sophisticated dashboard we ran two experiments to:
 - Validate metrics we had chosen for the report
 - Quantify risk of cancellations and downgrades
 
-We created 30-day reports and sent them via email to 4000 paying groups. We split these groups by team size into two cohorts - Freelancers or single license accounts multi-account licenses. Saw 15% churn in freelancer cohort
-and 4.79% churn in > 5
+We created 30-day reports and sent them via email to 4000 paying groups. We split these groups by team size into two cohorts:
 
-We concluded the results were statistically significant. In a follow up survey (with 1800 participants) 68% found the report very helpful, the remaining wanted more granularity in terms of usage and timeframes. Based on the feedback we finalized the following metrics matrix for the analytics dashboard:
+- Freelancers or single license accounts
+- Multi-account licenses
 
--table-
+We saw 15% churn in the freelancer cohort and 4.79% churn in the multi-license cohort.
 
--dashboard image-
+In a follow up survey (with 1800 participants) 68% found the report very helpful, the remaining wanted more granularity in terms of usage and timeframes. Based on the feedback we finalized the following metrics matrix for the analytics dashboard:
 
--usage impact-
+![Metrics](/assets/images/metrics.png)
 
-Net MRR impact was a 6.9% increase in upgrade MRR. Was closed as a success.
+### The Usage Analytics Dashboard
+
+Coverage, Testing frequency and Parallel test utilization for Automated Testing:
+
+![Enterprise hero](/assets/images/coverage.png)
+
+![Enterprise hero](/assets/images/testingfrequency.png)
+
+![Enterprise hero](/assets/images/paralleltest.png)
+
+### Impact
+
+Over an 8 week period, Net MRR impact was a 6.9% increase in MRR. Below is the split of upgrades, downgrades and cancellations, for both products, based on testing frequency:
+
+![Enterprise hero](/assets/images/usageresults.png)
 
 ### SSO Beta
 

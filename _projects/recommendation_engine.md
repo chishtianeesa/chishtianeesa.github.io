@@ -28,11 +28,11 @@ Guiding users through the search/discovery process with contextual recommendatio
 ## Approach
 We split searches into narrow, normal and broad searches to further understand behaviour for each search type.
 
-1. Narrow searches (<20 listings): When users applied too many filters, search was too specific or supply was low, this meant fewer listings. Typically users looked at at least 7 listings before shortlisting a property.
+1. Narrow searches (< 20 listings): When users applied too many filters, search was too specific or supply was low, this meant fewer listings. Typically users looked at at least 7 listings before shortlisting a property.
 
 2. Normal searches (20 - 100 listings): Users applied key filters (location, budget, BHK type) in areas with sufficient supply. Listings were paginated, with 20 properties on each page. Users would typically go up to the 5th page, but engagement on the first 5 of each page would be the highest. So listing #21 would be 5 times as likely to get viewed compared to listing #15. The most relevant properties always took slots of  1 to 5, 21 to 25 and so on.
 
-3. Broad searches (>100 listings): Users applied no filters or ran city wide searches or supply was too high, thus fetching an overwhelming flood of listings which resulted in poor conversion and users abandoning the search altogether.
+3. Broad searches (> 100 listings): Users applied no filters or ran city wide searches or supply was too high, thus fetching an overwhelming flood of listings which resulted in poor conversion and users abandoning the search altogether.
 
 
 ## Solution
