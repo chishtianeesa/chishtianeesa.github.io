@@ -64,12 +64,12 @@ Over an 8 week period, Net MRR impact was a 6.9% increase in MRR. Below is the s
 
 ![Enterprise hero](/assets/images/usageresults.png)
 
-### SSO Beta
+## Single Sign-on
 
-Validated SSO requirements. SSO was a deal-breaker. ¼ of overall lost deals were lost because of SSO. Launched SSO Beta - where we had one customer for each identity provider. After 4 successful integrations and 2 weeks of close monitoring, the 4 customers were ready to pay to continue using Single sign-on. In the first month after launch, the Sales team was able to close 3 deals, each more than $100k.
+25% of overall lost deals were lost because we did not offer SSO. We launched SSO Beta - where we had one customer for each identity provider. After 4 successful integrations and 2 weeks of close monitoring, the 4 customers were ready to pay to continue using Single sign-on. In the first month after launch, the Sales team was able to close 3 deals, each more than $100k.
 
-### Targeted Sales pitches
-Are people actually willing to pay?
+![SSO](/assets/images/sso.png)
+
 
 ## Product plans and pricing
 
@@ -83,47 +83,24 @@ Our key takeaway was that Enterprise software is purchased only after it passes 
 - Bespoke Training is an add-on that offers training modules to end-users such as QAs and test engineers to help them be more successful with manual and automation testing.
 - TAM is a designated BrowserStack expert who can provide technical guidance and ongoing support to maximize the returns on your BrowserStack investment.
 
--packaging image-
+![Enterprise packaging](/assets/images/packaging.png)
 
 ## Pricing Strategy
 
-We designed Enterprise plans for annual or multi-year terms only and a minimum of 10 users (Live, Automate) and 5 parallel tests (Automate Pro). We followed a Mixed bundling approach as it offered much needed flexibility to Enterprises with very diverse needs. Core features bundled together while professional services sold as optional add-ons.
+We designed Enterprise plans for annual or multi-year terms only and a minimum of 10 users (Live, Automate) and 5 parallel tests (Automate Pro). We followed a Mixed bundling approach as it offered much needed flexibility to Enterprises with very diverse needs.
 
-
-## Phased Launch
-
-### Phase 1
-Soft launch on the Pricing page to gauge demand. 8% of total queries received on Salesforce were for Enterprise, specifically asking for Single sign-on, usage analytics and IP whitelisting.
-
- -image of pricing page-
-
-### Phase 2
-
-Build a dedicated landing page (www.browserstack.com/enterprise) that talks about the benefits offered by each feature within the Enterprise offering. Internal tools. Sales intelligence tool for sales and renewals to proactively reach out to customers. This was for the customer success team. Metrics:
+![Enterprise pricing](/assets/images/enterprisepricing.png)
 
 ## Impact
-qualified Leads increased by 200%
-Win-rate up by 12%
-7.8% of the MRR comes from the Enterprise Product.
+- Qualified Leads increased by 200%
+- Win-rate up by 12%
+- 9% of the total MRR comes from the Enterprise Product
 
-
-## Retrospective
-
-Note: Data analyzed is from May-5th-2017 to Sep-19th-2017
-⅓  Enterprise opportunities lost
-
--table-
-
-- Customers only need specific Enterprise features and don't want to pay for features they don't need
-- TAM is not being pitched to customers, in the few cases that it was > customers were happy with SE + AE support and no longer felt the need for a TAM
-- Data centre location (6) and Priority support (5) are the attractive add-ons. - Customers don't feel add-ons are over-priced, they feel base Enterprise pricing is too high
-- For usage analytics, customers want usage by user
-- Pricing is a concern for existing users, new users are mostly comfortable with the price-points
 
 
 ## Future Scope
 
-1. Improve conversion, Long way to go. 7.8% of MRR to 25% by 2018. Offer enterprise free trial self-service. Reduce dependence on Sales, make this possible as self service. For that need to get the pricing right. and automate SSO and a whole bunch of stuff. Improve offering.
+1. Improve conversion: Increase MRR contribution of Enterprise product from 9% to 25% by 2018. Offer enterprise free trial self-service. Reduce dependence on Sales, make this possible as self service.
 2. Experiment with pricing to see how customers view bundling and design bundling accordingly.
-3. Encouraging outcome-oriented thinking. examples: "testing suite" or "performance suite", instead of individual products/features.
+3. Encourage outcome-oriented thinking. examples: "testing suite" or "performance suite", instead of individual products/features.
 4. Sales enablement
