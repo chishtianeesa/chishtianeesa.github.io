@@ -42,30 +42,28 @@ Keep the user in the search journey, identify non-negotiables and help navigate 
 - Create an internal dashboard for product managers to create their own cards as required and deploy without engineering involvement.
 
 ### Card families
+
 1. Narrow search
 - Relax filter(s) (Which filter is restricting search?)
 - Remove filter(s) (which soft filter is making the search narrow?)
 - Change polygon
+2. Broad search
+- Add filter
+- Add locality
+3. Statics cards
+- Set Alerts
+- Flatmates
+- Rental agreements
+- See Agents
+
+![Robin](/assets/images/cardfamilies.png)
+
+Robin in action:
 
 ![Robin](/assets/images/recco-1.png)
 
-2. Broad search
-Single filter
-Add filter
-Single locality
-change polygon
-Multi locality
-change polygon
+![Robin](/assets/images/removefilter.png)
 
-3. Statics cards
-Set Alerts
-Flatmates
-Rental agreements
-See Agents
+![Robin](/assets/images/changepolygon.png)
 
-### Filters
-
-Average filter usage in a 7 day period:
-
-
-## Retrospective
+### Impact
