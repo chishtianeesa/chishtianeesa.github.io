@@ -68,4 +68,8 @@ Robin in action:
 
 ### Impact
 
+Over a period of under 4 months, dead-end searches dropped by 22%.
+
+Performance of card types:
+
 ![Robin](/assets/images/robinctr.png)
